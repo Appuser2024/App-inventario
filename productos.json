@@ -1,0 +1,1 @@
+[{"id": 1, "nombre": "Arroz", "precio": 2200.0, "cantidad": 43, "categoria": "Granos", "stock_minimo": 40}, {"id": 2, "nombre": "Fr\u00edjol", "precio": 5400.0, "cantidad": 24, "categoria": "Granos", "stock_minimo": 15}, {"id": 4, "nombre": "Coca cola", "precio": 5500.0, "cantidad": 6, "categoria": "Gaseosas", "stock_minimo": 5}]

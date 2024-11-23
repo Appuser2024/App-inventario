@@ -1,0 +1,1 @@
+[{"id": 1, "fecha": "2024-11-23T10:19:59.046768", "productos": [{"id": 1, "nombre": "Arroz", "cantidad": 7, "precio_unitario": 2200.0, "subtotal": 15400.0}], "total": 15400.0}, {"id": 2, "fecha": "2024-11-23T10:20:29.935186", "productos": [{"id": 4, "nombre": "Coca cola", "cantidad": 4, "precio_unitario": 5500.0, "subtotal": 22000.0}], "total": 22000.0}]
